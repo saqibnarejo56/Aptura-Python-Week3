@@ -1,0 +1,44 @@
+{
+    "categories": [
+        {
+            "category_id": "101",
+            "name": "Electronics",
+            "created_at": "2026-09-08T02:13:45+05:00",
+            "updated_at": "2026-09-08T02:13:45+05:00"
+        }
+    ],
+    "products": [
+        {
+            "product_id": "101",
+            "name": "TV",
+            "category_id": "101",
+            "price": 230000.0,
+            "quantity": 14,
+            "created_at": "2026-09-08T02:13:45+05:00",
+            "updated_at": "2026-09-08T02:14:49+05:00"
+        }
+    ],
+    "transactions": [
+        {
+            "transaction_id": "AF67B9119810",
+            "product_id": "101",
+            "transaction_type": "STOCK_IN",
+            "quantity": 10,
+            "previous_quantity": 8,
+            "new_quantity": 18,
+            "timestamp": "2026-09-08T02:14:15+05:00"
+        },
+        {
+            "transaction_id": "EF2B0D8EAD3D",
+            "product_id": "101",
+            "transaction_type": "STOCK_OUT",
+            "quantity": 4,
+            "previous_quantity": 18,
+            "new_quantity": 14,
+            "timestamp": "2026-09-08T02:14:49+05:00"
+        }
+    ],
+    "settings": {
+        "low_stock_threshold": 10
+    }
+}
