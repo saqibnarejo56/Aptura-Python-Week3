@@ -1,0 +1,8 @@
+record_id,customer_name,email,city,order_date,quantity,unit_price,total_amount
+1001,Saqib Narejo,saqib@gmail.com,Karachi,2026-09-01,2,2500.0,5000.0
+1002,Ali Khan,ali.khan@gmail.com,Lahore,2026-09-02,3,1500.0,4500.0
+1003,Sara Ahmed,sara.ahmed@gmail.com,Islamabad,2026-09-03,1,5000.0,5000.0
+1004,Hamza Malik,hamza@gmail.com,Karachi,2026-09-04,4,1250.0,5000.0
+1005,Ayesha Noor,ayesha@gmail.com,Hyderabad,2026-09-05,2,3000.0,6000.0
+1011,Zain Abbas,zain@gmail.com,Karachi,2026-09-11,3,1750.5,5251.5
+1012,Mehak Ali,mehak@gmail.com,Lahore,2026-09-12,1,8000.0,8000.0

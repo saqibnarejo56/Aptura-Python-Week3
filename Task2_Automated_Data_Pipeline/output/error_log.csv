@@ -1,0 +1,6 @@
+record_number,record_id,errors,raw_record
+6,1006,invalid email format,"{""record_id"": ""1006"", ""customer_name"": ""Bilal Ahmed"", ""email"": ""bilal-email.com"", ""city"": ""Karachi"", ""order_date"": ""2026-09-06"", ""quantity"": ""3"", ""unit_price"": ""1800""}"
+7,1007,quantity must be a positive whole number,"{""record_id"": ""1007"", ""customer_name"": ""Maria Khan"", ""email"": ""maria@gmail.com"", ""city"": ""Lahore"", ""order_date"": ""2026-09-07"", ""quantity"": ""0"", ""unit_price"": ""4500""}"
+8,1008,unit_price must be greater than 0,"{""record_id"": ""1008"", ""customer_name"": ""Usman Ali"", ""email"": ""usman@gmail.com"", ""city"": ""Islamabad"", ""order_date"": ""2026-09-08"", ""quantity"": ""2"", ""unit_price"": ""-1200""}"
+9,1002,duplicate record_id,"{""record_id"": ""1002"", ""customer_name"": ""Hassan Raza"", ""email"": ""hassan@gmail.com"", ""city"": ""Karachi"", ""order_date"": ""2026-09-09"", ""quantity"": ""5"", ""unit_price"": ""1000""}"
+10,1010,customer_name is required,"{""record_id"": ""1010"", ""customer_name"": """", ""email"": ""noor@gmail.com"", ""city"": ""Hyderabad"", ""order_date"": ""2026-09-10"", ""quantity"": ""2"", ""unit_price"": ""2200""}"

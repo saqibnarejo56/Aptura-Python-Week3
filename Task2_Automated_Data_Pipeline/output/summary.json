@@ -1,0 +1,16 @@
+{
+    "total_records": 12,
+    "valid_records": 7,
+    "invalid_records": 5,
+    "valid_rate_percent": 58.33,
+    "total_sales_amount": 38751.5,
+    "average_order_value": 5535.93,
+    "minimum_order_value": 4500.0,
+    "maximum_order_value": 8000.0,
+    "records_by_city": {
+        "Hyderabad": 1,
+        "Islamabad": 1,
+        "Karachi": 3,
+        "Lahore": 2
+    }
+}

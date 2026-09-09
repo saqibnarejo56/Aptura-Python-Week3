@@ -1,0 +1,110 @@
+[
+    {
+        "record_id": "1001",
+        "customer_name": "Saqib Narejo",
+        "email": "saqib@gmail.com",
+        "city": "Karachi",
+        "order_date": "2026-09-01",
+        "quantity": "2",
+        "unit_price": "2500"
+    },
+    {
+        "record_id": "1002",
+        "customer_name": "Ali Khan",
+        "email": "ALI.KHAN@GMAIL.COM",
+        "city": "LAHORE",
+        "order_date": "2026-09-02",
+        "quantity": "3",
+        "unit_price": "1500"
+    },
+    {
+        "record_id": "1003",
+        "customer_name": "  Sara Ahmed  ",
+        "email": "sara.ahmed@gmail.com",
+        "city": "  islamabad  ",
+        "order_date": "2026-09-03",
+        "quantity": "1",
+        "unit_price": "5000"
+    },
+    {
+        "record_id": "1004",
+        "customer_name": "Hamza Malik",
+        "email": "hamza@gmail.com",
+        "city": "Karachi",
+        "order_date": "2026/09/04",
+        "quantity": "4",
+        "unit_price": "1250"
+    },
+    {
+        "record_id": "1005",
+        "customer_name": "Ayesha Noor",
+        "email": "ayesha@gmail.com",
+        "city": "Hyderabad",
+        "order_date": "2026-09-05",
+        "quantity": "2",
+        "unit_price": "3000"
+    },
+    {
+        "record_id": "1006",
+        "customer_name": "Bilal Ahmed",
+        "email": "bilal-email.com",
+        "city": "Karachi",
+        "order_date": "2026-09-06",
+        "quantity": "3",
+        "unit_price": "1800"
+    },
+    {
+        "record_id": "1007",
+        "customer_name": "Maria Khan",
+        "email": "maria@gmail.com",
+        "city": "Lahore",
+        "order_date": "2026-09-07",
+        "quantity": "0",
+        "unit_price": "4500"
+    },
+    {
+        "record_id": "1008",
+        "customer_name": "Usman Ali",
+        "email": "usman@gmail.com",
+        "city": "Islamabad",
+        "order_date": "2026-09-08",
+        "quantity": "2",
+        "unit_price": "-1200"
+    },
+    {
+        "record_id": "1002",
+        "customer_name": "Hassan Raza",
+        "email": "hassan@gmail.com",
+        "city": "Karachi",
+        "order_date": "2026-09-09",
+        "quantity": "5",
+        "unit_price": "1000"
+    },
+    {
+        "record_id": "1010",
+        "customer_name": "",
+        "email": "noor@gmail.com",
+        "city": "Hyderabad",
+        "order_date": "2026-09-10",
+        "quantity": "2",
+        "unit_price": "2200"
+    },
+    {
+        "record_id": "1011",
+        "customer_name": "Zain Abbas",
+        "email": "zain@gmail.com",
+        "city": "  KARACHI  ",
+        "order_date": "2026-09-11",
+        "quantity": " 3 ",
+        "unit_price": " 1750.50 "
+    },
+    {
+        "record_id": "1012",
+        "customer_name": "Mehak Ali",
+        "email": "MEHAK@GMAIL.COM",
+        "city": "Lahore",
+        "order_date": "2026-09-12",
+        "quantity": "1",
+        "unit_price": "8000"
+    }
+]
